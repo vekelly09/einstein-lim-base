@@ -46,6 +46,7 @@ group :development, :test do
   
   gem 'rspec-rails'
   gem 'autotest'
+  gem 'haml-rails', "~> 0.9"
 end
 
 group :production do
